@@ -1,0 +1,20 @@
+.page{
+    box-sizing: border-box;
+    background: #f6f5f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+    height: 80vh;
+    margin: 60px 0px 80px 340px;
+  }
+
+  .button20{
+    color: #ffff;
+    text-decoration: none;
+  }
+
+  .signimg{
+    margin-top: -220px;
+  }

@@ -1,0 +1,37 @@
+.imgpjm21{
+    float: left;
+    width: 400px;
+    height: 360px;
+    top: -630px ;
+    left: 0px;
+    position: relative;
+    border-radius: 0px;
+    margin: 0px 0px 0px 20px;
+}
+
+.tpjm21{
+    float: left;
+    position: relative;
+    top: -260px;
+    left: -390px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tpjm22{
+    float: left;
+    position: relative;
+    top: -235px;
+    left: -560px;
+    font-size: 20px;
+}
+
+.tpjm33{
+    float: left;
+    position: relative;
+    top: -600px;
+    right: 130px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}

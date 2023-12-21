@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,800");
+
+#root {
+  max-width: 100%;
+  text-align: left;
+}
+
+body {
+  max-width: 100%;
+  margin: 0%;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}

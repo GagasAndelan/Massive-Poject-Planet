@@ -1,0 +1,129 @@
+.pt1{
+  text-align: center;
+  margin: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.pt2{
+  font-weight: bold;
+  margin: 20px 20px 10px 20px;
+}
+
+.pt3{
+  float: left; 
+  position: relative; 
+  left: 650px; 
+  top: -550px; 
+  text-align: justify; 
+  font-size: 20px;
+}
+
+.pt4{
+  float: left;
+  font-weight: bold;
+  left: 20px;
+  position: relative;
+  top: -10px;
+}
+
+.pt5{
+  float: left; 
+  position: relative; 
+  left: 649px; 
+  top: -550px; 
+  text-align: justify; 
+  font-size: 20px;
+}
+
+.pt6{
+  font-weight: bold;
+  left: 20px;
+  position: relative;
+  top: -10px;
+}
+
+.pt7{
+  float: left; 
+  position: relative; 
+  left: 650px; 
+  top: -550px; 
+  text-align: justify; 
+  font-size: 20px;
+}
+
+.pt8{
+  font-weight: bold;
+  position: relative;
+  top: -10px;
+  left: 20px;
+}
+
+.pt9{
+  float: left; 
+  position: relative; 
+  left: 650px; 
+  top: -550px; 
+  text-align: justify; 
+  font-size: 20px;
+}
+
+.card1 {
+  float: left;
+  position: relative;
+  top: 50px;
+  left: 100px;
+  width: 500px;
+  height: 200px;
+}
+
+.card2 {
+  float: left;
+  position: relative;
+  top: 450px;
+  left: -400px;
+  width: 500px;
+  height: 200px;
+}
+
+.card3 {
+  float: left;
+  position: relative;
+  top: 600px;
+  left: 100px;
+  width: 500px;
+  height: 200px;
+}
+
+.card4 {
+  float: left;
+  position: relative;
+  top: 950px;
+  left: -400px;
+  width: 500px;
+  height: 200px;
+}
+
+.tombol4{
+  float: left;
+  position: relative;
+  left: 850px;
+  top: -550px;
+  width: 150px;
+  height: 40px;
+  background-color: #FF0000;
+  color: #ffff;
+  border-radius: 10px;
+}
+
+.ptbox1{
+  width: 1349px;
+    height: 0px;
+    margin: 1500px 0px 0px 0px;
+    border: solid #232D3F;
+    background-color: #232D3F;
+    text-align: center;
+    text-justify: inter-word;
+    font-weight: bold;
+    position: relative;
+}

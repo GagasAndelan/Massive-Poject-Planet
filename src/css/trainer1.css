@@ -1,0 +1,111 @@
+.ptbox2{
+  width: 1349px;
+    height: 670px;
+    margin: 470px 0px 0px 0px;
+    border: solid #232D3F;
+    background-color: #232D3F;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+.ptr1{
+  position: relative; 
+  color: #ffff; 
+  top: 20px; 
+  left: 0px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.ptr2{
+  position: relative; 
+  color: #ffff; 
+  margin: 70px 0px 0px 50px; 
+  text-align: justify;
+}
+
+.ptr3{
+  position: relative; 
+  color: #ffff; 
+  margin: 50px 0px 0px 50px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr4{
+  position: relative; 
+  color: #ffff; 
+  margin: 20px 0px 0px 50px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr5{
+  position: relative; 
+  color: #ffff; 
+  margin: 20px 0px 0px 50px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr6{
+  position: relative; 
+  color: #ffff; 
+  margin: -385px 0px 0px 530px; 
+  text-align: justify;
+}
+
+.ptr7{
+  position: relative; 
+  color: #ffff; 
+  margin: 50px 0px 0px 530px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr8{
+  position: relative; 
+  color: #ffff; 
+  margin: 20px 0px 0px 530px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr9{
+  position: relative; 
+  color: #ffff; 
+  margin: 20px 0px 0px 530px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr10{
+  position: relative; 
+  color: #ffff; 
+  margin: -380px 0px 0px 990px; 
+  text-align: justify;
+}
+
+.ptr11{
+  position: relative; 
+  color: #ffff; 
+  margin: 50px 0px 0px 990px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr12{
+  position: relative; 
+  color: #ffff; 
+  margin: 20px 0px 0px 990px; 
+  font-size: 20px; 
+  text-align: justify;
+}
+
+.ptr13{
+  position: relative; 
+  color: #ffff; 
+  margin: 20px 0px 0px 990px; 
+  font-size: 20px; 
+  text-align: justify;
+}

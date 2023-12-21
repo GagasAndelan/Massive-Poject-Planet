@@ -1,0 +1,147 @@
+.dm1{
+  float: left; 
+  position: relative; 
+  color: #ffff; 
+  font-size: 70px; 
+  text-align: center;
+  margin: -360px 0px 0px 420px;
+}
+
+.dm2{
+  position: relative; 
+  color: #000000; 
+  font-size: 30px; 
+  text-align: justify; 
+  margin: 40px 0px 0px 550px;
+}
+
+.dm3{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 90px 0px 0px 90px;
+}
+
+.dm4{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 145px 0px 0px -485px;
+}
+
+.dm5{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 200px 0px 0px -485px;
+}
+
+.dm6{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 85px 0px 0px 120px;
+}
+
+.dm7{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 140px 0px 0px -475px;
+}
+
+.dm8{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 140px 0px 0px -475px;
+}
+
+.dm9{
+  position: relative; 
+  float: left; 
+  font-size: 25px; 
+  margin: 75px 0px 0px -475px;
+}
+
+
+.it1{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 85px 0px 0px 130px;
+  float: left;
+}
+
+.it2{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 140px 0px 0px -280px;
+  float: left;
+}
+
+.it3{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 195px 0px 0px -280px;
+  float: left;
+}
+
+.it4{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 85px 0px 0px 50px;
+  float: left;
+}
+
+.it5{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 20px 0px 0px 50px;
+  float: left;
+}
+
+.it6{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 20px 0px 0px 726px;
+  float: left;
+}
+
+.it7{
+  position: relative; 
+  width: 280px; 
+  height: 35px; 
+  margin: 20px 0px 0px 889px;
+  float: left;
+}
+
+
+.tombol3{
+  float: left;
+  position: relative;
+  left: 550px;
+  top: 60px;
+  width: 200px;
+  height: 40px;
+  background-color: #9A3131;
+  color: #ffff;
+  border-radius: 20px;
+}
+
+.dmbox1{
+  width: 1349px;
+    height: 0px;
+    margin: 400px 0px 0px 0px;
+    border: solid #232D3F;
+    background-color: #232D3F;
+    text-align: center;
+    text-justify: inter-word;
+    font-weight: bold;
+    position: relative;
+}

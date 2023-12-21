@@ -1,0 +1,125 @@
+.pjm1{
+    width: 556px;
+    height: 650px;
+    background-color: #FFB340;
+    text-align: center;
+    text-justify: inter-word;
+    top: 0px;
+}
+
+.pjm2{
+    float: right;
+    width: 910px;
+    height: 650px;
+    background-color: #222020;
+    text-align: center;
+    text-justify: inter-word;
+    margin: -726px 0px 0px 0px;
+}
+
+.imgpjm1{
+    float: left;
+    width: 400px;
+    height: 500px;
+    top: -670px ;
+    left: 10px;
+    position: relative;
+    border-radius: 0px;
+    margin: 0px 0px 0px 20px;
+}
+
+.tpjm1{
+    float: left;
+    position: relative;
+    top: -260px;
+    left: -390px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tpjm2{
+    float: left;
+    position: relative;
+    top: -235px;
+    left: -605px;
+    font-size: 20px;
+}
+
+.tpjm3{
+    float: left;
+    position: relative;
+    top: -600px;
+    right: 160px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.content-table{
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+}
+
+.content-table thead tr{
+    background-color:blue;
+    color: #fff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td{
+padding: 12px 15px;
+
+}
+
+.content-table tbody tr{
+    border-bottom: 1px solid #ddd;
+
+}
+
+.content-table tbody tr:nth-of-type(even){
+    background-color: rgba(172, 19, 172, 0.2);
+
+}
+
+.content-table tbody tr:last-of-type{
+    border-bottom: 2px solid #f7f8f8;
+
+}
+
+.App2 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+}
+ 
+table {
+    border: 2px solid rgb(242, 243, 242);
+    width: 800px;
+    height: 200px;
+}
+ 
+th {
+    border-bottom: 1px solid rgb(254, 254, 255);
+    background-color: #FFB340;
+}
+ 
+td {
+    text-align: center;
+    color: #ffffff;
+}
+
+.tb{
+    color: #000000;
+}
+
+.solo{
+    position: relative;
+    top: 20px;
+}

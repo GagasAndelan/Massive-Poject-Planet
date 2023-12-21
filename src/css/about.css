@@ -1,0 +1,106 @@
+.pb1{
+  position: relative; 
+  color: #000000; 
+  font-size: 30px; 
+  text-align: justify; 
+  margin: 60px 0px 0px 650px;
+}
+
+.pb2{
+  position: relative; 
+  text-align: justify; 
+  font-size: 30px; 
+  margin: -20px 0px 0px 660px;
+}
+
+.pb3{
+  position: relative; 
+  text-align: justify; 
+  margin: 70px 0px 0px 640px; 
+  font-size: 19px;
+}
+
+.pb4{
+  position: relative; 
+  text-align: center; 
+  margin: 10px 0px 0px 40px;
+}
+
+.pb5{
+  position: relative; 
+  text-align: center; 
+  margin: 70px 0px 0px 55px; 
+  font-size: 19px;
+}
+
+.pb6{
+  position: relative; 
+  text-align: center; 
+  margin: 10px 0px 0px 40px;
+}
+
+.pb7{
+  float: relative; 
+  font-size: 30px; 
+  text-align: justify; 
+  margin: 40px 0px -45px 240px;
+}
+
+.pb8{
+  position: relative;
+  font-size: 20px; 
+  text-align: justify; 
+  margin: 5px 0px 0px 240px;
+}
+
+.pb9{
+  float: relative; 
+  font-size: 30px; 
+  text-align: justify; 
+  margin: 0px 0px 0px 900px;
+}
+
+.pb10{
+  position: relative;
+  font-size: 20px; 
+  text-align: justify; 
+  margin: -30px 0px 0px 900px;
+}
+
+.pbimg1{
+  position: relative; 
+  width: 300px; 
+  margin: -90px 10px 10px 550px;
+}
+
+.pbimg2{
+  float: relative; 
+  width: 300px; 
+  margin: 10px 0px 0px 220px; 
+  border-radius: 10px;
+}
+
+.pbimg3{
+  float: right;
+  position: relative; 
+  width: 300px; 
+  margin: 10px 180px 0px 0px;
+  border-radius: 10px;
+}
+
+.pbimg4{
+  position: relative; 
+  width: 960px; 
+  margin: 170px 0px 70px 10px;
+}
+.tombol1 {
+  float: left;
+  position: relative;
+  left: 600px;
+  top: 100px;
+  width: 200px;
+  height: 40px;
+  background-color: #9A3131;
+  color: #ffff;
+  border-radius: 20px;
+}
